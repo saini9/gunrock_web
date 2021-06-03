@@ -1,0 +1,4 @@
+{
+    "stripe_secret_key" : "sk_test_51Ixh6NAhTkcK0Lf8c3K9wDowHEXXjPQstiBeWV1YwSG3QrPfmLnI2M5GNURY06IAHXSgoAQSW0in9RjxFkvjvwkt00Q2RLvZrb",
+    "stripe_publishable_key" : "pk_test_51Ixh6NAhTkcK0Lf8QwjinkOgvBgjN32c9Q4tx6OGVnvqPlhiv48w7rL61E6RAjKXvlHEqB5iez49mpnx4vydFPDm0001H1Tuho"
+}
